@@ -5,4 +5,4 @@ Rules:
 - Maintain discipline
 Exams:
 -Midterm exam-Cedrick
--Final Practical exam-Cedrick
+-Final Practical exam-Cedrick 22
