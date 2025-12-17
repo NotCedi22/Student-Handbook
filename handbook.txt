@@ -3,3 +3,6 @@ Institute Name: Aptech Training Center
 Rules:
 - Be punctual
 - Maintain discipline
+Exams:
+-Midterm exam-Cedrick
+-Final Practical exam-Cedrick
